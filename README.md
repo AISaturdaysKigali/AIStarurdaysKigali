@@ -6,9 +6,8 @@ Lessons plan for AI Saturdays Kigali
 Some usefuls link for AI Saturdays Lessons and plans 
 
 
-The first 2 weeks we will learn Machine learning foundations
+The first 2 weeks we will learn Machine learning foundations.
 
-We will learn about :
  - Linear Algebra
  - Calculus 
  - Probabilty and statistics 
@@ -17,7 +16,7 @@ We will learn about :
  ## Week 1 : Linear ALgebra
  Another preliminary video :
  
- [By SIraj Motivation Video] (https://www.youtube.com/watch?v=Cr6VqTRO1v0)
+ [By siraj raval Motivation Video](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
  ### Theorical session :
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Khan academy Linear Algebra ](https://www.khanacademy.org/math/linear-algebra)
