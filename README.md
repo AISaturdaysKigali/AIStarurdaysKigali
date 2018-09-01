@@ -21,8 +21,10 @@ The first 2 weeks we will learn Machine learning foundations.
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Khan academy Linear Algebra ](https://www.khanacademy.org/math/linear-algebra)
  ### Pratical Session :
+ - [Azeez Blog For Python Tutorial](https://kantologist.github.io/Tutorials/#!/)
  - [Introduction to python](https://www.youtube.com/watch?v=N4mEzFDjqtA)
  - [Coding Problems to solve](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
+ 
  
  
  ## Week 2 : Satistics and Probability
