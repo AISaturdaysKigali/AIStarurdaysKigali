@@ -35,7 +35,9 @@ The first 2 weeks we will learn Machine learning foundations.
  - [check this one also](https://www.youtube.com/watch?v=VPZD_aij8H0) 
  ### Practical Session 
  
- - Pandas for Datascience Exploratory data analysis (Find a jupyter notebook for this task)
+ - Pandas for Datascience Exploratory data analysis [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+ - More advanced tutorials [1](https://realpython.com/python-pandas-tricks/) and [2](https://realpython.com/fast-flexible-pandas/)
+ - Comming soon
  
  ## Week 3 : Calculus and more ex
 
