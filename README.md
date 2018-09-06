@@ -34,10 +34,14 @@ The first 2 weeks we will learn Machine learning foundations.
  - [Another Intresting Video from Khan Academy](https://www.khanacademy.org/math/statistics-probability)
  - [check this one also](https://www.youtube.com/watch?v=VPZD_aij8H0) 
  ### Practical Session 
- 
+ ## Main Tutorial
+ - [Quick Dive to pandas](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
+ - [Pandas Exercices](https://github.com/guipsamora/pandas_exercises)
+ ## Additional Ressources
+ - [Be efficient in pandas](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
+ - [Pandas Exercices](https://github.com/guipsamora/pandas_exercises)
  - Pandas for Datascience Exploratory data analysis [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
  - More advanced tutorials [1](https://realpython.com/python-pandas-tricks/) and [2](https://realpython.com/fast-flexible-pandas/)
- - Comming soon
  
  ## Week 3 : Calculus and more ex
 
