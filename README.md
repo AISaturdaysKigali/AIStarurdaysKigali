@@ -35,6 +35,8 @@ The first 2 weeks we will learn Machine learning foundations.
  - [check this one also](https://www.youtube.com/watch?v=VPZD_aij8H0) 
  ### Practical Session 
  #### Main Tutorial
+ - [Numpy tutorial](https://kantologist.github.io/posts/numpy_essentials/)
+ - [Pandas Tutorial](https://github.com/espoirMur/espoirMur.github.io/blob/master/_posts/2018-09-07-DIve-into-pandas.ipynb)
  - [Quick Dive to pandas](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
  - [Pandas Exercices](https://github.com/guipsamora/pandas_exercises)
  #### Additional Ressources
