@@ -13,7 +13,7 @@ The first 2 weeks we will learn Machine learning foundations.
  - Probabilty and statistics 
  - Introduction to python programming and datascience tools (pandas and numpy)
  
- ## Week 1 : Linear ALgebra
+ ## Week 1 : Linear ALgebra and Intro to python
  Another preliminary video :
  
  [By siraj raval Motivation Video](https://www.youtube.com/watch?v=Cr6VqTRO1v0)
@@ -27,7 +27,7 @@ The first 2 weeks we will learn Machine learning foundations.
  
  
  
- ## Week 2 : Satistics and Probability
+ ## Week 2 : Satistics and Probability and intro to Numpy and Pandas
  
  ### Theorical session : 
  - [Introduction to Statistics and Probability](https://www.youtube.com/watch?v=4r_EWA3FXfM)
@@ -45,6 +45,34 @@ The first 2 weeks we will learn Machine learning foundations.
  - Pandas for Datascience Exploratory data analysis [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
  - More advanced tutorials [1](https://realpython.com/python-pandas-tricks/) and [2](https://realpython.com/fast-flexible-pandas/)
  
- ## Week 3 : Calculus and more ex
+ ## Week 3 : Introduction to  Machine learning
+ 
+ ### Pre-session:
+ - Answering question on previous sessions
+ - [Discuss: Artificial Intelligence, Machine Learning, Deep Learning, Data Science](https://ai6forums.nurture.ai/t/discuss-artificial-intelligence-machine-learning-deep-learning-data-science/781)
+ 
+ ### Theorical session :
+ 
+ - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/):  
+      - Introduction to ML
+
+      - Framing 
+
+      - Descending into ML 
+### Pratical session
+ - Dicussion about project we will work on 
+ 
+ ## Week 4: Machine learning Reducing loss
+ 
+ ### Theorical Session:
+ 
+ [Machine Learning Crash Course by Google Reducing Loss](https://developers.google.com/machine-learning/crash-course/):
+ 
+     - Reducing Loss
+     
+ ### Practical session (Home work):
+ 
+ - Coding Linear regression from scratch [ressource 1](https://github.com/justmarkham/scikit-learn-videos/blob/master/06_linear_regression.ipynb) [ressource 2](https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0) [ressource 3](https://mubaris.com/2017/09/28/linear-regression-from-scratch/)
+
 
 
