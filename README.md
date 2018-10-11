@@ -74,5 +74,44 @@ The first 2 weeks we will learn Machine learning foundations.
  
  - Coding Linear regression from scratch [ressource 1](https://github.com/justmarkham/scikit-learn-videos/blob/master/06_linear_regression.ipynb) [ressource 2](https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0) [ressource 3](https://mubaris.com/2017/09/28/linear-regression-from-scratch/)
 
+## Week 5 : 
 
+### Theorical Session:
+
+[Machine Learning Crash Course by Google: First Steps with TensorFlow](https://developers.google.com/machine-learning/crash-course/):
+
+        -    First Steps with TensorFlow 
+### Practical session:
+
+   -  [Linear Regression With Tensorflow](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
+###  Recommended readings :
+
+   -  [What are Machine Learning Frameworks](https://www.analyticsindiamag.com/machine-learning-framework-10-need-know/)
+   
+   -  [Best Python libraries for Machine Learning and Data Science](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-data-science-part-1-f18242424c38)
+   
+   - [Tensorflow vs Keras scikit learn](https://stackshare.io/stackups/tensorflow-vs-scikit-learn-vs-keras)
+   
+   - [tensorflow vs Keras vs Pytorch](http://codeinpython.com/tutorials/deep-learning-tensorflow-keras-pytorch/)
+   
+   -  [A beginner introduction to tensorflow](https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278)
+
+### Week 6 :
+
+
+### Theorical session :
+
+  - [Generalization](https://developers.google.com/machine-learning/crash-course/):
+  
+        -   Generalization
+
+        -   Training and Test Sets Validation
+
+        -   Representation 
+ ### Practical :
+   Complete “Check Your Understanding” and “Programming Exercises”, if any 
+ ### Readings:
+ 
+ - Comming Soon
+ 
 
