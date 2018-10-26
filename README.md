@@ -114,4 +114,30 @@ The first 2 weeks we will learn Machine learning foundations.
  
  - Comming Soon
  
+ ### Week 7 :
 
+
+### Theorical session :
+
+  - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture):
+  
+        -   Feature Crosses
+        -   One Hot Vectors
+
+ ### Practical :
+   [Feature Crosses notebook](https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb)
+
+ 
+  ### Week 8 :
+  
+ ### Theorical session :
+
+  - [Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture):
+  
+        -   Regularization
+
+  -  [Logistic Regression Intro](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
+ ### Practical :
+   - [Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-examining-l2-regularization)
+   - [Logistic Regression from scratch](https://beckernick.github.io/logistic-regression-from-scratch/)
+   
