@@ -125,6 +125,7 @@ The first 2 weeks we will learn Machine learning foundations.
         -   One Hot Vectors
 
  ### Practical :
+   [Feature set](https://colab.research.google.com/notebooks/mlcc/feature_sets.ipynb)
    [Feature Crosses notebook](https://colab.research.google.com/notebooks/mlcc/feature_crosses.ipynb)
 
  
