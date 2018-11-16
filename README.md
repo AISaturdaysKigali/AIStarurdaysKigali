@@ -142,4 +142,14 @@ The first 2 weeks we will learn Machine learning foundations.
  ### Practical :
    - [Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/playground-exercise-examining-l2-regularization)
    - [Logistic Regression from scratch](https://beckernick.github.io/logistic-regression-from-scratch/)
-   
+ 
+### Week 9 :
+
+### Theorical session:
+
+- [Andrew Ng Logistic Regression Video from Youtube](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLNeKWBMsAzboR8vvhnlanxCNr2V7ITuxy)
+
+### Practical :
+
+- [Logistic Regression Notebook](https://github.com/AISaturdaysLagos/cycle2-resource-materials/blob/master/Beginners/Week04/codelab/Logistic%20Regression.ipynb)
+- [Google Logistic Regression](https://colab.research.google.com/notebooks/mlcc/logistic_regression.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=logisticregression-colab&hl=en)
